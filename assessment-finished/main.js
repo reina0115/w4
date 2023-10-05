@@ -7,7 +7,7 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-const storyText = '外は４０度だったので :insertx: は歩いて行った. :inserty:　に着いたとき、:insertz:　あい　は驚いたが、体重１００kgの スライム　は驚かなかった. その:inserty: ではよくあることだった。';
+const storyText = '外は４０度だったので :insertx: は歩いて行った. :inserty:　に着いたとき、:insertz:　あい　は驚いたが、体重１００kgの スライム　は驚かなかった. その:insertY: ではよくあることだった。';
 const insertX = ['アーニャ', 'リムル', 'ルディ'];
 const insertY = ['ディズニーランド', 'ハウステンボス', '公園'];
 const insertZ = ['雪が降っていた', '地面が溶けていた', '混雑していた'];
